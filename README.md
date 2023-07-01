@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-FULL PROJECT DOCUMENTATION LINK: https://github.com/shalu212/React-app/blob/main/Assignment%20SDE%20by%20Shalini%20(2)%20(1).pdf
+FULL PROJECT DOCUMENTATION BY SHALINI LINK: https://github.com/shalu212/React-app/blob/main/Assignment%20SDE%20by%20Shalini%20(2)%20(1).pdf
 
 
 
