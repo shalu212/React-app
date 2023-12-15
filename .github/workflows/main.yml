@@ -33,6 +33,9 @@ jobs:
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
       with:
-        deploy_key: ${{ secrets.GH_TOKEN }}
+        # Disable SSH key setup
+        deploy_key: ""
+        # Use Personal Access Token (PAT) for authentication
+        github_token: ${{ secrets.GH_TOKEN }}
         publish_dir: ./build
         publish_branch: gh-pages
